@@ -3,3 +3,7 @@
 password=testing12383
 
 # some more data
+
+# inactive tokens
+slack_token="xoxp-559859041733-629723654435-752364182007-9ead8994051da71a0774db965b16a60b"
+github_token="a83bd9e2cc357abecf78ecabcd52f28bafd21111"
